@@ -9,7 +9,7 @@
   
   inputs.src-threadproxy-0_2_1.flake = false;
   inputs.src-threadproxy-0_2_1.owner = "jackhftang";
-  inputs.src-threadproxy-0_2_1.ref   = "refs/tags/0.2.1";
+  inputs.src-threadproxy-0_2_1.ref   = "0_2_1";
   inputs.src-threadproxy-0_2_1.repo  = "threadproxy.nim";
   inputs.src-threadproxy-0_2_1.type  = "github";
   
