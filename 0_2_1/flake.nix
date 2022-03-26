@@ -11,6 +11,7 @@
   inputs.src-threadproxy-0_2_1.ref   = "refs/tags/0.2.1";
   inputs.src-threadproxy-0_2_1.owner = "jackhftang";
   inputs.src-threadproxy-0_2_1.repo  = "threadproxy.nim";
+  inputs.src-threadproxy-0_2_1.dir   = "";
   inputs.src-threadproxy-0_2_1.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
